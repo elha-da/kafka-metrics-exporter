@@ -1,0 +1,8 @@
+.idea/
+target/
+.scalastyle
+
+.envrc
+
+src/main/resources/log*/
+*.log

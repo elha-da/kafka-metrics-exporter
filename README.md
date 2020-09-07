@@ -1,1 +1,1 @@
-# kafka-metrics-exporter
+# Kafka metrics exporter
